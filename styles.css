@@ -14,6 +14,7 @@ nav {
 }
 
 header {
+  height: 369px;
   display: flex;
   flex-direction: column;
   background-image: url("assets/kw-background.png");
